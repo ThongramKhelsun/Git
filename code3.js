@@ -1,1 +1,1 @@
-console.log("this is a javascript")
+console.log('this is javascript');console.log("this is a javascript")
